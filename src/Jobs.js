@@ -10,7 +10,7 @@ const Jobs = (props) => {
         country="Australie"
         city="Sydney"
         color="red"
-      ></Job>
+      />
       <Job
         classname="job"
         title="Full Time Sales Associate - Sydney Boutique"
@@ -18,7 +18,7 @@ const Jobs = (props) => {
         country="Australie"
         city="Sydney"
         color="green"
-      ></Job>
+      />
       <Job
         classname="job"
         title="Full Time Sales Associate - Sydney Boutique"
@@ -26,7 +26,7 @@ const Jobs = (props) => {
         country="Australie"
         city="Sydney"
         color="yellow"
-      ></Job>
+      />
       <Job
         classname="job"
         title="Full Time Sales Associate - Sydney Boutique"
@@ -35,7 +35,7 @@ const Jobs = (props) => {
         city="Sydney"
         color="red"
         color="blue"
-      ></Job>
+      />
       <Job
         classname="job"
         title="Full Time Sales Associate - Sydney Boutique"
@@ -43,7 +43,7 @@ const Jobs = (props) => {
         country="Australie"
         city="Sydney"
         color="cream"
-      ></Job>
+      />
       <Job
         classname="job"
         title="Full Time Sales Associate - Sydney Boutique"
@@ -51,7 +51,7 @@ const Jobs = (props) => {
         country="Australie"
         city="Sydney"
         color="red"
-      ></Job>
+      />
       <Job
         classname="job"
         title="Full Time Sales Associate - Sydney Boutique"
@@ -59,7 +59,7 @@ const Jobs = (props) => {
         country="Australie"
         city="Sydney"
         color="green"
-      ></Job>
+      />
       <Job
         classname="job"
         title="Full Time Sales Associate - Sydney Boutique"
@@ -67,7 +67,7 @@ const Jobs = (props) => {
         country="Australie"
         city="Sydney"
         color="yellow"
-      ></Job>
+      />
       <Job
         classname="job"
         title="Full Time Sales Associate - Sydney Boutique"
@@ -75,7 +75,7 @@ const Jobs = (props) => {
         country="Australie"
         city="Sydney"
         color="blue"
-      ></Job>
+      />
     </div>
   );
 };

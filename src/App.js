@@ -6,9 +6,9 @@ import Footer from "./Footer";
 function App() {
   return (
     <div className="main">
-      <Header title="The Job Board"></Header>
-      <Jobs></Jobs>
-      <Footer></Footer>
+      <Header title="The Job Board" />
+      <Jobs />
+      <Footer />
     </div>
   );
 }
